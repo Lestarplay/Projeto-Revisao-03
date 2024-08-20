@@ -19,16 +19,15 @@ li{
 }
 .Exemplo{
     display: flex;
-    margin: 0;
     padding: 20px 0;
     justify-content: space-around;
 }
 .posição{
-    height: 400px;
     display: flex;
 }
 img{
     border-radius: 50px;
+    height: 400px;
 }
 footer{
     padding: 10px 0;
