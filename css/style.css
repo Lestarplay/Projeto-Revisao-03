@@ -1,6 +1,6 @@
 body{
    background-color: chocolate;
-   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-family: "Pacifico", cursive;
 }
 header{
     padding: 20px 0;
@@ -22,6 +22,13 @@ li{
     margin: 0;
     padding: 20px 0;
     justify-content: space-around;
+}
+.posição{
+    height: 400px;
+    display: flex;
+}
+img{
+    border-radius: 50px;
 }
 footer{
     padding: 10px 0;
